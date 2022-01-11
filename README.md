@@ -4,7 +4,7 @@
 <p>We create data driven projects such as database search engines.</p>
 <br>
 <hr>
-<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DistralProjects&bg_color=0D1117&color=b4b4b4&line=F85D7F&point=b4b4b4&hide_border=true" />
+<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AstralOfficial&bg_color=0D1117&color=b4b4b4&line=F85D7F&point=b4b4b4&hide_border=true" />
 </p>
 <hr>
 <br><br>
